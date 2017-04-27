@@ -1,14 +1,31 @@
-**Step 1** <!-- OS description -->
+### [READ] Step 1: Are you in the right place?
 
-  * Do some things
-  * Do some other things
-  
-**Step 2** <!-- RS code -->
+  * For issues or feature requests related to __the code in this repository__
+    file a Github issue.
+  * For general technical questions, post a question on [StackOverflow](http://stackoverflow.com/)
+    with the firebase tag.
+  * For general Firebase discussion, use the [firebase-talk](https://groups.google.com/forum/#!forum/firebase-talk)
+    google group.
+  * For help troubleshooting your application that does not fall under one
+    of the above categories, reach out to the personalized
+    [Firebase support channel](https://firebase.google.com/support/).
+
+### [REQUIRED] Step 2: Describe your environment
+
+  * Operating System version: _____
+  * Firebase SDK version: _____
+  * Library version: _____
+  * Firebase Product: _____ (auth, database, storage, etc)
+
+### [REQUIRED] Step 3: Describe the problem
+
+#### Steps to reproduce:
+
+What happened? How can we make the problem occur?
+This could be a description, log/console output, etc.
+
+#### Relevant Code:
 
 ```
-// TODO(developer): Give me some code
+// TODO(you): code here to reproduce the problem
 ```
-
-**Step 3** <!-- RS topic -->
-
-Topic: ______
