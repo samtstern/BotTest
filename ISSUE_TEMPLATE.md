@@ -4,6 +4,7 @@
   * Do some other things
   
 **Step 2** <!-- RS code -->
+
 // TODO(developer): Give me some code
 
 **Step 3** <!-- RS topic -->
