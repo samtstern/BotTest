@@ -1,13 +1,11 @@
-**Step 1**
+**Step 1** <!-- OS description -->
 
   * Do some things
   * Do some other things
   
-**Step 2**
-<!-- START_MUST_CHANGE code -->
+**Step 2** <!-- RS code -->
 // TODO(developer): Give me some code
-<!--END_MUST_CHANGE code -->
 
-**Step 3**
+**Step 3** <!-- RS topic -->
 
 Topic: ______
