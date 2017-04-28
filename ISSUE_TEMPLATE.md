@@ -2,6 +2,7 @@
 
   * For issues or feature requests related to __the code in this repository__
     file a Github issue.
+    * If this is a __feature request__ make sure the issue title starts with "FR:".
   * For general technical questions, post a question on [StackOverflow](http://stackoverflow.com/)
     with the firebase tag.
   * For general Firebase discussion, use the [firebase-talk](https://groups.google.com/forum/#!forum/firebase-talk)
