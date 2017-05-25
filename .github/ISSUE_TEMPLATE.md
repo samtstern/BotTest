@@ -1,4 +1,4 @@
-### [READ] Step 1: Are you in the right place?
+<!-- Step 1: Are you in the right place?
 
   * For issues or feature requests related to __the code in this repository__
     file a Github issue.
@@ -10,7 +10,7 @@
   * For help troubleshooting your application that does not fall under one
     of the above categories, reach out to the personalized
     [Firebase support channel](https://firebase.google.com/support/).
-
+-->
 ### [REQUIRED] Step 2: Describe your environment
 
   * Operating System version: _____
@@ -21,9 +21,10 @@
 ### [REQUIRED] Step 3: Describe the problem
 
 #### Steps to reproduce:
-
+<!--
 What happened? How can we make the problem occur?
 This could be a description, log/console output, etc.
+-->
 
 #### Relevant Code:
 
