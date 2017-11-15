@@ -1,0 +1,32 @@
+{
+    "name": "BotTest for Firebase",
+    "parent": "ossbot",
+    "type": "library",
+  
+    // A project can belong to multiple platforms, such as "JavaScript" and "React"
+    // or "Android" and "Java"
+    "platforms": [
+      "javascript",
+      "typescript"
+    ],
+  
+    // A markdown file and a logo PNG to be used for the opensource site
+    "content": "README.md",
+    "logo": "logo.png",
+  
+    // These are relative paths in the same repo,
+    // each of these paths must have a .opensource/project.json
+    "subprojects": [],
+  
+    // Related projects on Github, in the format $owner/$repo[/$subproject]
+    // where subproject is optional.
+    "related": [
+      "firebase/oss-bot"
+    ],
+  
+    "products": [
+      "firebase",
+      "firebase-database"
+    ]
+  }
+  
