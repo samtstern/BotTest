@@ -1,5 +1,5 @@
 {
-    "name": "BotTest for Firebase",
+    "name": "BotTest Subproject",
     "parent": "ossbot",
     "type": "library",
   
@@ -16,9 +16,7 @@
   
     // These are relative paths in the same repo,
     // each of these paths must have a .opensource/project.json
-    "subprojects": [
-        "subby"
-    ],
+    "subprojects": [],
   
     // Related projects on Github, in the format $owner/$repo[/$subproject]
     // where subproject is optional.
