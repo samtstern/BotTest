@@ -11,3 +11,11 @@ And then I have some more content with bullets:
   * One
   * Two 
   * Three
+
+## New section
+
+And there's some text here
+
+## Final section
+
+Thanks for coming!
