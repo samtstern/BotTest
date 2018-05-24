@@ -1,6 +1,6 @@
 # BotTest
 
-Testing 1, 2, 3...
+Testing 1, 2, 3, 4...
 
 ```java
 // This is a code block
@@ -9,7 +9,7 @@ Testing 1, 2, 3...
 And then I have some more content with bullets:
 
   * One
-  * Two 
+  * Two
   * Three
 
 ## New section
