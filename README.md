@@ -19,3 +19,5 @@ And there's some text here
 ## Final section
 
 Thanks for coming!
+
+Test link to a cool project [angularfire2](https://github.com/angular/angularfire2).
