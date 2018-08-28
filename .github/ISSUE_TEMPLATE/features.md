@@ -1,7 +1,11 @@
 ---
 name: 💡 Feature Request
-about: Feature Request template.
+about: Got an idea for how to improve this repository?  File a feature request.
 ---
 
-<!-- Comment -->
+<!-- DO NOT DELETE 
+validate_template=false
+template_path=.github/ISSUE_TEMPLATE/features.md
+-->
+
 This is the feature request template.
