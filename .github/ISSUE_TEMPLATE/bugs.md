@@ -8,4 +8,15 @@ validate_template=true
 template_path=.github/ISSUE_TEMPLATE/bugs.md
 -->
 
-This is the bug report template.
+### [REQUIRED] Please do this section
+
+Product: ______
+Please.
+
+### [REQUIRED] And this one
+
+Some info: ________
+
+### This one I don't care about
+
+Draw something down here.
