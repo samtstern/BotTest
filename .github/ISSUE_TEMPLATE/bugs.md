@@ -10,12 +10,12 @@ template_path=.github/ISSUE_TEMPLATE/bugs.md
 
 ### [REQUIRED] Please do this section
 
-Product: ______
-Please.
+  * Product: ______
+  * Please.
 
 ### [REQUIRED] And this one
 
-Some info: ________
+  * Some info: ________
 
 ### This one I don't care about
 
